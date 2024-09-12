@@ -1,6 +1,6 @@
 # Building LLMs From Scratch
 
-### 1. Large Language Model Text Preparation
+### [1. Large Language Model Text Preparation](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch/blob/main/00_Working_with_Text_Data.ipynb)
 
 This notebook demonstrates the process of preparing text for training large language models (LLMs). The preparation steps include tokenization, byte pair encoding (BPE), sampling training examples, and converting tokens into vectors that can be used for model training.
 
